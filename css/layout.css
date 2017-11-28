@@ -34,10 +34,10 @@
   float: left;
 }
 
-.first {
-  margin-left: 0%;
-}
-
 [class*="col-"] {
   margin-left: 2%;
+}
+
+.first {
+  margin-left: 0%;
 }
