@@ -35,9 +35,9 @@
 }
 
 .first {
-  margin-left: 0;
+  margin-left: 0%;
 }
 
 [class*="col-"] {
-  margin-left: 0%;
+  margin-left: 2%;
 }
