@@ -23,11 +23,6 @@
 }
 
 /* Posititoning Classes */
-
-.wrapper {
-  margin: 0 auto;
-}
-
 .col-1 {
   width: 32.33%;
   float: left;
