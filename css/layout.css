@@ -34,6 +34,10 @@
   float: left;
 }
 
+.first {
+  margin: 0;
+}
+
 [class*="col-"] {
   margin-left: 2%;
 }
